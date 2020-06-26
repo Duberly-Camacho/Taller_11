@@ -24,4 +24,16 @@ h1 {
     text-align: center;
     border:2px solid rgb(100, 205, 159);
 }
+.action-button{
+    padding: 15px;
+    background-color: rgb(63, 140, 143);
+    border-radius: 10px;
+    color: #ffffff;
+    margin:20px;
+}
+.action-button:hover{
+    padding: 15px;
+    background-color:rgb(35, 158, 127);
+    border-radius: 10px;
+    color: #ffffff;
 }
